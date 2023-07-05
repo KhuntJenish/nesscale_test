@@ -2,6 +2,6 @@
 
 A new Flutter project.
 
-app video link : https://we.tl/t-s0Vgnx2l3Y 
+app video link : https://we.tl/t-UsxcXZN2yk 
 
 
